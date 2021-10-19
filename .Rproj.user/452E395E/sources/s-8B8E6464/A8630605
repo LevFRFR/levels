@@ -1,0 +1,25 @@
+{
+    "id": "A8630605",
+    "path": "D:/R Projects/BTMA 431/HW 1/candelstick_funs.R",
+    "project_path": "candelstick_funs.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1633486845633.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "96,20",
+        "scrollLine": "0"
+    },
+    "folds": "18|3|27|0|\n33|3|42|0|\n",
+    "lastKnownWriteTime": 1633562338,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633562338301,
+    "read_only": false,
+    "read_only_alternatives": []
+}
