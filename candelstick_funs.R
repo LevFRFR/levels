@@ -1,4 +1,6 @@
-library(dplyr)
+if (!require("pacman")) install.packages("pacman"); library(pacman)
+
+p_load(tidyverse)
 
 # fractal functions
 

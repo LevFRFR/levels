@@ -1,8 +1,9 @@
-library(plotly)
-library(quantmod)
-library(rlist)
-library(lubridate)
+if (!require("pacman")) install.packages("pacman"); library(pacman)
 
+p_load(plotly,
+       quantmod,
+       rlist,
+       lubridate)
 source("candelstick_funs.R")
 
 # start_date <- "2020-03-15" # "2005-01-10"
